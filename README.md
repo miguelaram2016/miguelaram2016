@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-## I'm a 25-year-old developer. I love programming stuff 😁
+## I'm a 26-year-old developer. I love programming stuff 😁
 
 I currently work as an independent web developer, helping my clients integrate their frontend and backend code, making everything look perfect 👌🏼
 
 In my free time, I like to [create](https://miguel-portfolio.netlify.com). Here's a few of my favourite projects, creations, and/or hustles!
 
-- [elmarftiness](https://github.com/miguelaram2016): [Website](https://www.elmarfitness.com) to introduce my fitness coaching clients to myself and my work 💪🏼
+- [elmarfitness](https://github.com/miguelaram2016): [Website](https://www.elmarfitness.com) to introduce my fitness coaching clients to myself and my work 💪🏼
 
