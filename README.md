@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I currently work as an independent web developer, helping my clients integrate their frontend and backend code, making everything look perfect 👌🏼
 
-In my free time, I like to [create](https://miguel-portfolio.netlify.app). Here's a few of my favourite projects, creations, and/or hustles!
+In my free time, I like to [create](https://mig.is-a.dev). Here's a few of my favourite projects, creations, and/or hustles!
 
 - [elmarfitness](https://github.com/miguelaram2016): [Website](https://www.elmarfitness.com) to introduce my fitness coaching clients to myself and my work 💪🏼
 
