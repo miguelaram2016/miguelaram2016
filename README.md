@@ -22,5 +22,5 @@ I currently work as an independent web developer, helping my clients integrate t
 
 In my free time, I like to [create](https://mig.is-a.dev). Here's a few of my favourite projects, creations, and/or hustles!
 
-- [elmarfitness](https://github.com/miguelaram2016): [Website](https://www.elmarfitness.com) to introduce my fitness coaching clients to myself and my work 💪🏼
+- [elmarfitness.com](https://www.elmarfitness.com): Website to introduce my fitness coaching clients to myself and my work 💪🏼
 
